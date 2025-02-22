@@ -11,14 +11,10 @@ I'm **Lumpii**, a passionate developer who loves turning ideas into reality thro
 - 🌱 **Learning:** Always exploring new tech stacks and frameworks.
 - 💡 **Interests:** Web Development, FiveM Scripting, Discord Bot Development, Series, Memes, and Music.
 - ⚡ **Fun Fact:** If the code works, it's probably magic. ✨
-<p align="left" style="display: flex; align-items: center;">
-  <img src="adb.svg" alt="Active Developer Icon" width="28" height="28" style="margin-right: 8px;" />
-  <span style="font-size: 16px; font-weight: bold;">Active developer</span>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Lumpii404&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
+<a href="#">
+  <img src="adb.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Discord%20Active%20Developer-5865F2?style=for-the-badge&logoColor=white">
+</a>
 
 ---
 
@@ -76,3 +72,8 @@ Here are some of my top projects. If you like them, feel free to leave a ⭐!
 <div align="center">
   <p>Thanks for visiting! Let's build something amazing together. 🚀</p>
 </div>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lumpii404&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+</p>
