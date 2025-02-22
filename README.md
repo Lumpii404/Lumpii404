@@ -11,9 +11,15 @@ I'm **Lumpii**, a passionate developer who loves turning ideas into reality thro
 - 🌱 **Learning:** Always exploring new tech stacks and frameworks.
 - 💡 **Interests:** Web Development, FiveM Scripting, Discord Bot Development, Series, Memes, and Music.
 - ⚡ **Fun Fact:** If the code works, it's probably magic. ✨
+
+---
+
+### 📜 My badges
+
 <a href="#">
   <img src="adb.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;">
-  <img src="https://img.shields.io/badge/Discord%20Active%20Developer-5865F2?style=for-the-badge&logoColor=white">
+  <img src="hsb.png" width="25" height="25" style="vertical-align: middle; margin-right: 8px;">
+  <img src="Crown.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;">
 </a>
 
 ---
