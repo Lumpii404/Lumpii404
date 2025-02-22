@@ -19,7 +19,7 @@ I'm **Lumpii**, a passionate developer who loves turning ideas into reality thro
 <a href="#">
   <img src="adb.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;">
   <img src="hsb.png" width="25" height="25" style="vertical-align: middle; margin-right: 8px;">
-  <img src="Crown.svg" width="30" height="30" style="vertical-align: middle; margin-right: 8px;">
+  <img src="Crown.svg" width="25" height="25" style="vertical-align: middle; margin-right: 8px;">
 </a>
 
 ---
