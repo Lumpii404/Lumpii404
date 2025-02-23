@@ -1,5 +1,4 @@
-<h1 align="center">🚀 Welcome to My World! 🚀</h1>
-<h3 align="center">Head Developer of @ScubeScripts</h3>
+![Lumpii404](https://github.com/user-attachments/assets/e0d638fb-70d5-404d-961f-252b84592d9c)
 
 ---
 
