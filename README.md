@@ -82,3 +82,7 @@ Here are some of my top projects. If you like them, feel free to leave a ⭐!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lumpii404&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
