@@ -43,16 +43,16 @@ Here are some of my top projects. If you like them, feel free to leave a ⭐!
 
 <div align="center">
   <a href="https://github.com/Lumpii404/sc_hud">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lumpii404&repo=sc_hud" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lumpii404&repo=sc_hud&theme=dark#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/Lumpii404/sc_taxsystem">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lumpii404&repo=sc_taxsystem" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lumpii404&repo=sc_taxsystem&theme=dark#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/ScubeScripts/jsfour-idcard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scubescripts&repo=jsfour-idcard" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=scubescripts&repo=jsfour-idcard&theme=dark#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/Lumpii404/sc_animatedNPC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lumpii404&repo=sc_animatedNPC" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lumpii404&repo=sc_animatedNPC&theme=dark#gh-dark-mode-only" />
   </a>
 </div>
 
