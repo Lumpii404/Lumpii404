@@ -16,7 +16,7 @@ I'm **Lumpii**, a passionate developer who loves turning ideas into reality thro
 ### 📜 My badges
 
 
-| <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | <img  src="/assets/boosts/discordboost9.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> |
+| <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | <img  src="/assets/diamond.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> |
 | ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 
 ---
