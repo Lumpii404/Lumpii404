@@ -1,4 +1,4 @@
-![Lumpii404](https://github.com/user-attachments/assets/e0d638fb-70d5-404d-961f-252b84592d9c)
+<img width="2000" height="600" alt="" src="https://github.com/user-attachments/assets/3a6944d2-b6f6-4825-b130-85c160cf5273" />
 
 ---
 
