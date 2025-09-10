@@ -61,7 +61,7 @@ Here are some of my top projects. If you like them, feel free to leave a ⭐!
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://discord.gg/Mqgewse3Yc">
+  <a href="https://discord.gg/5gKAtJFUD9">
       <img src="https://img.shields.io/discord/942834394517876857?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
   </a>
   <a href="https://github.com/ScubeScripts">
