@@ -1,23 +1,18 @@
 <img width="2000" height="600" alt="" src="https://github.com/user-attachments/assets/3a6944d2-b6f6-4825-b130-85c160cf5273" />
 
+<h1 align="center">Hey there! 👋 I'm Lumpii</h1>
+<h3 align="center">Head Developer at <a href="https://github.com/ScubeScripts">ScubeScripts</a></h3>
+
 ---
 
 ### 👨‍💻 About Me
 
 I'm **Lumpii**, a passionate developer who loves turning ideas into reality through code. As the **Head Developer** of ScubeScripts, I lead a team of talented individuals to create innovative solutions and push the boundaries of technology.
 
-- 🔭 **Currently Working On:** Getting my shit together (and some cool projects for ScubeScripts).
+- 🔭 **Currently Working On:** Leading development and innovating with new projects at ScubeScripts.
 - 🌱 **Learning:** Always exploring new tech stacks and frameworks.
 - 💡 **Interests:** Web Development, FiveM Scripting, Discord Bot Development, Series, Memes, and Music.
 - ⚡ **Fun Fact:** If the code works, it's probably magic. ✨
-
----
-
-### 📜 My badges
-
-
-| <img  src="/assets/activedeveloper.svg" href="https://discord.com/assets/26c7a60fb1654315e0be26107bd47470.svg" > | <img  src="/assets/hypesquadbrilliance.svg" href="https://discord.com/assets/ec8e92568a7c8f19a052ef42f862ff18.svg" > | <img  src="/assets/diamond.svg" href="https://discord.com/assets/d96ed283b74de75692487b7499fb8d09.svg" > | <img  src="/assets/supportscommands.svg" href="https://discord.com/assets/498591d63b352256a1bf18061eff9d57.svg"> |
-| ----------------------------------- | ----------------------------------- | ----------------------------------- | ----------------------------------- |
 
 ---
 
@@ -58,12 +53,29 @@ Here are some of my top projects. If you like them, feel free to leave a ⭐!
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Lumpii404">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lumpii404&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Lumpii's GitHub Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lumpii404&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/Lumpii404">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lumpii404&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
 ### 📫 Let's Connect!
 
 <p align="center">
   <a href="https://discord.gg/5gKAtJFUD9">
-      <img src="https://img.shields.io/discord/942834394517876857?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
-  </a>
+    <img src="https://img.shields.io/badge/Discord-Join_Our_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
+</a>
   <a href="https://github.com/ScubeScripts">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -76,9 +88,8 @@ Here are some of my top projects. If you like them, feel free to leave a ⭐!
   <p>Thanks for visiting! Let's build something amazing together. 🚀</p>
 </div>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lumpii404&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Lumpii404&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Lumpii404" style="padding-right:20px;" />
 </p>
 
 <p align="center">
